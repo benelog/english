@@ -1,6 +1,6 @@
 # Table of contents
 
-* [예의바른 표현](README.md)
+* [공손한 표현](README.md)
 
 ## 상황별 표현 <a href="#situtaions" id="situtaions"></a>
 
@@ -11,4 +11,3 @@
 ***
 
 * [추천 자료](undefined.md)
-* [test](test.adoc)

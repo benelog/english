@@ -10,5 +10,4 @@
 
 ***
 
-* [test](test.adoc)
 * [추천 자료](undefined.md)

@@ -1,0 +1,14 @@
+== 테스트
+
+[source,java]
+.Job이 성공했을 때와 실패했을 때 다르게 처리
+----
+public void afterJob(JobExecution jobExecution){
+  if( jobExecution.getStatus() == BatchStatus.COMPLETED ){ // <1>
+    // Job이 성공했을 때의 처리
+  } else if(jobExecution.getStatus() == BatchStatus.FAILED){
+    // Job이 실패했을 때의 처리
+  }
+}
+----
+<1> `BatchStatus` 는 Enum이므로 "=="로 비교를 해도 된다.

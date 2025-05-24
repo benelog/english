@@ -4,10 +4,11 @@
 
 ## 상황별 표현 <a href="#situtaions" id="situtaions"></a>
 
-* [음식점](situtaions/undefined.md)
-* [택시](situtaions/undefined-1.md)
-* [쇼핑](situtaions/undefined-2.md)
+* [음식점](situtaions/restaurant.md)
+* [택시](situtaions/taxi.md)
+* [쇼핑](situtaions/shopping.md)
 
 ***
 
-* [추천 자료](undefined.md)
+* [화상 회의](online-meeting.md)
+* [추천 자료](recommendation.md)

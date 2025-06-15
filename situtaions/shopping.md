@@ -19,4 +19,6 @@
 * I'd like to return this shirt.
 * I'd like to exchage this shirt for a bigger size.
 * There's a stein.&#x20;
+* It doesn't fit well.
+* I just changed my mind.
 

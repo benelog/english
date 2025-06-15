@@ -40,6 +40,7 @@
 * Daily Native English : [https://www.youtube.com/@DailyNativeEnglish](https://www.youtube.com/@DailyNativeEnglish)
 * EngFluent : [https://www.youtube.com/@EngFluentTV](https://www.youtube.com/@EngFluentTV)
 * English Jade · Learn English with engVid : [https://www.youtube.com/@engvidJade](https://www.youtube.com/@engvidJade)
+* English with Emma : [https://www.youtube.com/@engvidEmma](https://www.youtube.com/@engvidEmma)
 * Podcast
   * The English Pod Community : [https://www.youtube.com/@TheEnglishPod](https://www.youtube.com/@TheEnglishPod)
   * English Learning Podcast : [https://www.youtube.com/@Englishpodcast-x7k](https://www.youtube.com/@Englishpodcast-x7k)
@@ -59,7 +60,9 @@
   * Nina's Life School 니나 : [https://www.youtube.com/@nnlifeschool](https://www.youtube.com/@nnlifeschool)
   * Bridge TV : [https://www.youtube.com/@BridgeTVKorea](https://www.youtube.com/@BridgeTVKorea)
   * 클라라그래피 Claragraphy. : [https://www.youtube.com/@claragraphy](https://www.youtube.com/@claragraphy)
-  * 영어많이 : [https://www.youtube.com/@%EC%98%81%EC%96%B4%EB%A7%8E%EC%9D%B4](https://www.youtube.com/@%EC%98%81%EC%96%B4%EB%A7%8E%EC%9D%B4)
+  * 영어많이 : https://www.youtube.com/@%EC%98%81%EC%96%B4%EB%A7%8E%EC%9D%B4
+  * 제니리 영어 Jenny Lee : [https://www.youtube.com/@jennylee\_english](https://www.youtube.com/@jennylee_english)
+  * A.J. Hoge : [https://www.youtube.com/@AJHogeEffortlessEnglish](https://www.youtube.com/@AJHogeEffortlessEnglish)
 * 스토리/콘텐츠형
   * Kurzgesagt – In a Nutshell : [https://www.youtube.com/@kurzgesagt](https://www.youtube.com/@kurzgesagt)
   * [https://www.youtube.com/@estherperel](https://www.youtube.com/@estherperel)
@@ -70,3 +73,5 @@
   * StoryStudies - Learn English Through Story : [https://www.youtube.com/@StoryStudies-learn-english](https://www.youtube.com/@StoryStudies-learn-english)
   * TechWorld with Nana : [https://www.youtube.com/@TechWorldwithNana](https://www.youtube.com/@TechWorldwithNana)
   * The School of Life : [https://www.youtube.com/@theschooloflifetv](https://www.youtube.com/@theschooloflifetv)
+  * [https://www.youtube.com/@TopThink](https://www.youtube.com/@TopThink)
+  * ByteByteGo : [https://www.youtube.com/@ByteByteGo](https://www.youtube.com/@ByteByteGo)

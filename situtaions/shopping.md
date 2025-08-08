@@ -1,10 +1,10 @@
-# 쇼핑
+# Shopping
 
 * May I try this on?
 
 
 
-### 포장
+### Packaging
 
 * Could you gift wrap it?
 * Could you bubble wrap it?
@@ -12,7 +12,7 @@
 
 
 
-### 환불
+### Return
 
 * What is your return policy?
 * Can I get a refund?

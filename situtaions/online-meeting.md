@@ -1,10 +1,10 @@
-# 화상 회의
+# Online meeting
 
 Sanghyuk(San) Jung | NAVER
 
 Can you hear me okay?
 
-Hello Ben, I’m Sanghyuk. It’s a pleasure to meet you.\
+Hello Tom, I’m Sanghyuk. It’s a pleasure to meet you.\
 You can call me San, it’s short for my name.\
 I am the leader of Developerexperience team at NAVER.
 

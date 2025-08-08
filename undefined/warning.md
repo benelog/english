@@ -1,0 +1,19 @@
+# Warning
+
+```
+I warn you about..
+
+I warn you about configurations of the intranet.
+
+If you don't configure a firewall correctly, non-authorized can access proprietary information on the servers.
+
+What you should say in the meeting.
+
+I warn you in advance, If you put the bad-mouth on your fellow programmers, you will be asked to leave.
+
+If you damage our workstation, your company will be reimburse for the total cost to repair it.
+
+Look for information. You use our web contents without permission. If you don't correct it, our company will be forced to take legal actions.
+
+If you don't pay past-due accounts for the developing plan of this web service system, we will be forced to take legal actions.
+```

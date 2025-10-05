@@ -1,4 +1,4 @@
-# 음식점
+# Restaurant
 
 
 
@@ -16,10 +16,13 @@
 ### 메뉴
 
 * tap water : 수도물. 보통 공짜
+* How would you like your coffee?
+* Would you bring some cream and sugar, please?
 
 
 
 ### 먹고 나서
 
+* Do you take credit card?
 * We loved it. It was so delicious.
 

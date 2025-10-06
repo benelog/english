@@ -1,7 +1,5 @@
 # Restaurant
 
-
-
 ### 메뉴 고르는 중&#x20;
 
 * I'm not ready to order yet.
@@ -25,4 +23,12 @@
 
 * Do you take credit card?
 * We loved it. It was so delicious.
+
+
+
+### 회고
+
+* brooze
+  * We went out to get some booze for the party.
+  * She got drunk by boozing too much at the bar.
 

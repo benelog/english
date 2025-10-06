@@ -6,6 +6,7 @@
 ## Situations <a href="#situtaions" id="situtaions"></a>
 
 * [Restaurant](situtaions/restaurant.md)
+* [Airplane](situtaions/airplane.md)
 * [Taxi](situtaions/taxi.md)
 * [Shopping](situtaions/shopping.md)
 * [Online meeting](situtaions/online-meeting.md)

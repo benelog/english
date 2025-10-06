@@ -1,7 +1,6 @@
 # Table of contents
 
 * [예의바른 표현](README.md)
-* [Page](page.md)
 
 ## Situations <a href="#situtaions" id="situtaions"></a>
 
@@ -14,6 +13,7 @@
 ## 표현 묶음
 
 * [Warning](undefined/warning.md)
+* [신체 관련 표현](undefined/undefined.md)
 
 ## reading
 

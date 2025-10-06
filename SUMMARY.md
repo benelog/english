@@ -13,7 +13,7 @@
 ## 표현 묶음
 
 * [Warning](undefined/warning.md)
-* [Body](undefined/body.md)
+* [Body](undefined/undefined.md)
 
 ## reading
 

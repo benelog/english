@@ -1,4 +1,4 @@
-# 신체 관련 표현
+# Body
 
 * perspire
   * If people didn't perspire they'd die.

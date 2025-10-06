@@ -10,10 +10,10 @@
 * [Shopping](situtaions/shopping.md)
 * [Online meeting](situtaions/online-meeting.md)
 
-## 표현 묶음
+## 표현 묶음 <a href="#expressions" id="expressions"></a>
 
-* [Warning](undefined/warning.md)
-* [Body](undefined/undefined.md)
+* [Warning](expressions/warning.md)
+* [Body](expressions/body.md)
 
 ## reading
 
@@ -28,4 +28,4 @@
 
 ***
 
-* [난이도 관련](undefined-1.md)
+* [난이도 관련](undefined.md)

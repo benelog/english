@@ -25,3 +25,7 @@
 
 * [Electrcity](lyrics/electrcity.md)
 * [추천 자료](lyrics/recommendation.md)
+
+***
+
+* [난이도 관련](undefined-1.md)

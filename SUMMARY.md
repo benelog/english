@@ -13,7 +13,7 @@
 ## 표현 묶음
 
 * [Warning](undefined/warning.md)
-* [신체 관련 표현](undefined/undefined.md)
+* [Body](undefined/body.md)
 
 ## reading
 

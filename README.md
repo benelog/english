@@ -1,13 +1,5 @@
-# 예의바른 표현
+# 영어 공부
 
-Type\
-⌃/\
-for commands,\
-/\
-for inline commands or paste a link to embed content.
+## 예의바른 표현
 
 {% embed url="https://www.youtube.com/watch?v=6kCTDhW9rqQ" %}
-
-
-
-좋은 내용

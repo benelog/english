@@ -70,10 +70,21 @@ nav:
       - situtaions/taxi.md
       - situtaions/shopping.md
       - situtaions/online-meeting.md
+  - 문법:
+      - grammar/voice.md
+      - grammar/modal-verbs.md
+      - grammar/verbs-without-preposition.md
+      - grammar/verbs-with-preposition.md
+      - grammar/adverbial-nouns.md
   - 표현 묶음:
-      - expressions/warning.md
+      - expressions/greetings.md
+      - expressions/emotions.md
+      - expressions/exercise.md
+      - expressions/food.md
       - expressions/body.md
       - expressions/body-issues.md
+      - expressions/warning.md
+      - expressions/business-email.md
   - Reading:
       - reading/korean-economy.md
       - reading/korean-trends.md

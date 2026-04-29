@@ -73,6 +73,7 @@ nav:
   - 표현 묶음:
       - expressions/warning.md
       - expressions/body.md
+      - expressions/body-issues.md
   - Reading:
       - reading/korean-economy.md
       - reading/korean-trends.md

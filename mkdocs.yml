@@ -1,0 +1,83 @@
+site_name: Benelog English
+site_description: 영어 학습 노트
+site_url: https://english.benelog.net/
+repo_url: https://github.com/benelog/english
+repo_name: benelog/english
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: ko
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: 다크 모드로 전환
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 라이트 모드로 전환
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+plugins:
+  - search:
+      lang:
+        - ko
+        - en
+
+nav:
+  - 홈: index.md
+  - Situations:
+      - situtaions/introduce.md
+      - situtaions/restaurant.md
+      - situtaions/airplane.md
+      - situtaions/taxi.md
+      - situtaions/shopping.md
+      - situtaions/online-meeting.md
+  - 표현 묶음:
+      - expressions/warning.md
+      - expressions/body.md
+  - Reading:
+      - reading/korean-economy.md
+      - reading/korean-trends.md
+      - reading/foods-giants.md
+  - Lyrics:
+      - lyrics/electrcity.md
+      - lyrics/recommendation.md
+  - 난이도 관련: difficulty.md

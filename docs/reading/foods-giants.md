@@ -1,12 +1,12 @@
 # Foods giants
 
-#### 배운 단어 <a href="#undefined" id="undefined"></a>
+#### 배운 단어
 
 * nefarious
 * adroit
 * sedentary
 
-### Foods giants have your number <a href="#foods-giants-have-your-number" id="foods-giants-have-your-number"></a>
+### Foods giants have your number
 
 If you want to know why one in five kids, one in three adults, is considered clinically obese, while 24 million Americans are afflicted by type 2 diabetes, and and additional 79 million have pre-diabetes, it's partly because the food manufacturers have your number. They're succeeded in getting you hooked on foods that are readily accessible and inexpensive. So argues Pulitzer Prize-winner Michael Moss in a new book called Salt, Sugar, Fat. Moss calls those key ingredients the "pillars of processed foods," and tells that the "most perfect version" of a food in many palates is of often a combination of the three.
 

@@ -73,9 +73,7 @@ nav:
   - 문법:
       - grammar/voice.md
       - grammar/modal-verbs.md
-      - grammar/verbs-without-preposition.md
-      - grammar/verbs-with-preposition.md
-      - grammar/adverbial-nouns.md
+      - grammar/prepositions.md
   - 표현 묶음:
       - expressions/greetings.md
       - expressions/emotions.md

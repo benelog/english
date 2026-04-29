@@ -1,4 +1,6 @@
-# 전치사 없이 쓰이는 동사
+# 전치사
+
+## 전치사 없이 쓰이는 동사
 
 * Fit
     * This blouse fits you.
@@ -13,3 +15,12 @@
     * Sign this check.
     * Did you sign the contract?
     * I forgot to sign the form.
+
+## 전치사 필요 동사
+
+* I hung out with your brother.
+
+## 전치사가 없어도 되는 명사 겸용 부사
+
+* Come upstairs.
+* Come downstairs.

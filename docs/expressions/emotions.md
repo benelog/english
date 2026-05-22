@@ -2,7 +2,7 @@
 
 * I'm excited.
 * I am deeply grateful for your support.
-    * thanksful : 나쁜 일이 안 생겨서 다행. 안도감. 특정 사람보다는 '상황', '운', '신' 등에 초점
+    * thankful : 나쁜 일이 안 생겨서 다행. 안도감. 특정 사람보다는 '상황', '운', '신' 등에 초점
     * grateful : 타인의 호의나 친절에 대해 깊은 감사를 느낄 때. 사람에 초점.
 * I'm so annoyed. : 나 완전 짜증나
     * My brother is so annoying. (내 남동생 완전 사람 짜증나게 해)

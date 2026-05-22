@@ -2,7 +2,7 @@
 
 ### 호출
 
-* Could you call me taxi, please?
+* Could you call me a taxi, please?
 * &#x20;I'd like to call a taxi.
 
 
@@ -16,9 +16,9 @@
 ### 목적지
 
 * Please go to the airport.
-* Can you take me to the aiport?&#x20;
+* Can you take me to the airport?&#x20;
 * Take me to the airport, please.
-* I need go to the airport.
+* I need to go to the airport.
 
 ### 하차
 
@@ -29,7 +29,7 @@
 
 ### 계산
 
-* How much is charge?
+* How much is the charge?
 * How much is the fare?
 * Keep the change.
 

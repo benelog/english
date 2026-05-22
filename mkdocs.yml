@@ -76,6 +76,7 @@ nav:
       - grammar/prepositions.md
   - 표현 묶음:
       - expressions/greetings.md
+      - expressions/polite.md
       - expressions/emotions.md
       - expressions/exercise.md
       - expressions/food.md
@@ -83,6 +84,7 @@ nav:
       - expressions/body-issues.md
       - expressions/warning.md
       - expressions/business-email.md
+      - expressions/difficulty.md
   - Reading:
       - reading/korean-economy.md
       - reading/korean-trends.md
@@ -90,4 +92,3 @@ nav:
   - Lyrics:
       - lyrics/electrcity.md
       - lyrics/recommendation.md
-  - 난이도 관련: difficulty.md

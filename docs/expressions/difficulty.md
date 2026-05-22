@@ -3,7 +3,7 @@
 
 
 * easy into
-  * I need to easy into new situations.
+  * I need to ease into new situations.
   * She found it difficult at first but gradually eased into the new exercise routine.
 * big ask
   * He knows it's a big ask, but he really needs help with the report.

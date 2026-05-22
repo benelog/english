@@ -13,7 +13,7 @@
 
 ### 메뉴
 
-* tap water : 수도물. 보통 공짜
+* tap water : 수돗물. 보통 공짜
 * How would you like your coffee?
 * Would you bring some cream and sugar, please?
 
@@ -21,14 +21,14 @@
 
 ### 먹고 나서
 
-* Do you take credit card?
+* Do you take credit cards?
 * We loved it. It was so delicious.
 
 
 
 ### 회고
 
-* brooze
+* booze
   * We went out to get some booze for the party.
   * She got drunk by boozing too much at the bar.
 

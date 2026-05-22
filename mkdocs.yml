@@ -63,6 +63,7 @@ plugins:
 
 nav:
   - 홈: index.md
+  - 추천 자료: recommendation.md
   - Situations:
       - situtaions/introduce.md
       - situtaions/restaurant.md
@@ -91,4 +92,3 @@ nav:
       - reading/foods-giants.md
   - Lyrics:
       - lyrics/electrcity.md
-      - lyrics/recommendation.md

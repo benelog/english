@@ -1,7 +1,5 @@
 # Online meeting
 
-Sanghyuk(San) Jung | NAVER
-
 ### 회의 잡기
 
 Can we just hop on a call and figure this out ?

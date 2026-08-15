@@ -4,6 +4,12 @@
 
 
 
+### Payment
+
+* I'd like to pay by credit card.
+
+
+
 ### Packaging
 
 * Could you gift wrap it?

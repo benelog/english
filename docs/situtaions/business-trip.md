@@ -4,6 +4,21 @@
 * I plan to stay for six days.
 * I will be staying at Grand Hyatt San Francisco.
 
+## 기내
+
+### 좌석 이동
+
+* May I sit here?
+* May I get through?
+* May I go in?
+* Can I recline my seat?
+* Please return your seat to the upright position.
+
+### 식사
+
+* When will dinner be served?
+* What's for dinner?
+
 ## 입국심사
 
 immigration / passport control

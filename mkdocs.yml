@@ -67,7 +67,6 @@ nav:
   - Situations:
       - situtaions/introduce.md
       - situtaions/restaurant.md
-      - situtaions/airplane.md
       - situtaions/taxi.md
       - situtaions/shopping.md
       - situtaions/online-meeting.md
@@ -94,3 +93,4 @@ nav:
   - Lyrics:
       - lyrics/electrcity.md
       - lyrics/heal-the-world.md
+      - lyrics/this-is-me.md
